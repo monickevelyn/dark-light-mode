@@ -1,3 +1,3 @@
-# Modo dark/light com react
+# modo dark/light com react
 
-Simples projeto de troca de tema com um botão.
+simples projeto de troca de tema com um botão.
